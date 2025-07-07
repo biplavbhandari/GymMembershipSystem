@@ -39,6 +39,7 @@ Built on an extendable OOP structure with `GymMember`, `RegularMember`, and `Pre
 🚀 How to Run
 
 git clone https://github.com/biplavbhandari/GymMembershipSystem.git
+
 Open the project folder in your favorite Java IDE (IntelliJ IDEA, Eclipse, or NetBeans).
 
 Compile all Java files inside the src directory to ensure smooth sailing.
