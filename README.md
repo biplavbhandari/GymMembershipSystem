@@ -36,7 +36,7 @@ Built on an extendable OOP structure with `GymMember`, `RegularMember`, and `Pre
 
 
 
-🚀 How to Run
+🚀 How to Run(Step  By Step)
 
 git clone https://github.com/biplavbhandari/GymMembershipSystem.git
 
