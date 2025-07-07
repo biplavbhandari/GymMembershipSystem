@@ -36,14 +36,14 @@ Built on an extendable OOP structure with `GymMember`, `RegularMember`, and `Pre
 
 
 
-🚀 How to Run(Step  By Step)
+###🚀 How to Run
+Clone the repo:
 
-git clone https://github.com/biplavbhandari/GymMembershipSystem.git
-
+[![Repo]git clone https://github.com/biplavbhandari/GymMembershipSystem.git
 Open the project folder in your favorite Java IDE (IntelliJ IDEA, Eclipse, or NetBeans).
 
-Compile all Java files inside the src directory to ensure smooth sailing.
+Compile all Java files inside the src directory.
 
-Run the GymGUI class — this launches the interactive membership management system.
+Run the GymGUI class to launch the interactive GUI.
 
-Dive in and start managing members effortlessly through the sleek GUI!
+Manage members easily with the user-friendly interface!
