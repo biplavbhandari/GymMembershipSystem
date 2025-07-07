@@ -34,21 +34,15 @@ All saved data is organized using console-style tables for clarity and readabili
 ### 🧩 Object-Oriented Architecture  
 Built on an extendable OOP structure with `GymMember`, `RegularMember`, and `PremiumMember` classes, ensuring modularity and future scalability.
 
----
-
-## 🖼️ Screenshots
 
 
+🚀 How to Run
 
----
+git clone https://github.com/biplavbhandari/GymMembershipSystem.git
+Open the project folder in your favorite Java IDE (IntelliJ IDEA, Eclipse, or NetBeans).
 
-## 🚀 How to Run
-git clone https://github.com/biplavbhandari/GymMembershipSystem
-Open the project in your favorite Java IDE (e.g., IntelliJ, Eclipse)
+Compile all Java files inside the src directory to ensure smooth sailing.
 
-Compile all Java files in the src folder
+Run the GymGUI class — this launches the interactive membership management system.
 
-Run the GymGUI class
-
-Interact with the GUI to manage members!
-
+Dive in and start managing members effortlessly through the sleek GUI!
