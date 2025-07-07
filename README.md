@@ -40,6 +40,7 @@ Built on an extendable OOP structure with `GymMember`, `RegularMember`, and `Pre
 Clone the repo:
 
 [![Repo](https://img.shields.io/badge/Repo-GymMembershipSystem-blue)] git clone https://github.com/biplavbhandari/GymMembershipSystem.git
+
 Open the project folder in your favorite Java IDE (IntelliJ IDEA, Eclipse, or NetBeans).
 
 Compile all Java files inside the src directory.
